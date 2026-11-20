@@ -31,6 +31,28 @@ A simple React application demonstrating React Router, Firebase Email/Password A
 ```bash
 npm run build
 ```
+## Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Login Page
+![Login Page](login.png)
+
+### Register Page
+![Register Page](register.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Profile
+![Profile](profile.png)
+
+### Logout
+![Logout](logout.png)
+
+### Protected Route
+![Protected Route](protected-route.png)
 
 ## Important
 - Do not commit your `.env` file or share private project credentials.
